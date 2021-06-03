@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second accompt of what progress hath been hitherto made with such other particulars as are conceived necessary for the advancement and prefecting of a publick design for the accommodation, relief, and benefit of the prisoners of the compter in the Poultry, upon the intending re-building thereof / humbly presented to superiours, and to all worthy benefactors.</title>
+            <author>Gyffard, Humphry.</author>
+         </titleStmt>
+         <extent>Approx. 52KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23484</idno><idno type="EEBO-CITATION">31355750</idno>
+  <idno type="VID">205853</idno>
+  <idno type="EEBO-PROQUEST">2240895907</idno>
+  
+            <idno type="STC">Wing G695</idno>
+            <idno type="OCLC">31355750</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1739:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second accompt of what progress hath been hitherto made with such other particulars as are conceived necessary for the advancement and prefecting of a publick design for the accommodation, relief, and benefit of the prisoners of the compter in the Poultry, upon the intending re-building thereof / humbly presented to superiours, and to all worthy benefactors.</title>
+                  <author>Gyffard, Humphry.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Humphry Gyffard.</note>
+                  <note>Colophon: London : Printed by W. Godbid for Nathan. Brooks, and are to be sold at his shop at the sign of the Angel in Cornhil, Anno Dom. 1670.</note>
+                  <note>Reproduction of original in the Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisons --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205853:1"/>
+            <p>A <hi>SECOND ACCOMPT</hi> OF What <hi>Progress</hi> hath been hitherto made, <hi>WITH</hi> Such other PARTICULARS as are conceived necessary for the Advancement and Perfecting OF A Publick Design FOR The <hi>Accommodation, Releif</hi> and <hi>Benefit</hi> OF THE PRISONERS OF THE <hi>COMPTER</hi> in the <hi>POƲLTREY,</hi> Upon the intended <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> BUILDING thereof.</p>
+            <p>Humbly presented to SUPERIOURS, and to all Worthy BENEFACTORS.</p>
+            <q>
+               <bibl>
+                  <hi>Gal. 4.18.</hi>
+               </bibl> It is good to be zealously affected alwaies in a good thing.</q>
+            <q>
+               <bibl>
+                  <hi>Prov. 13.9.</hi>
+               </bibl> Open thy mouth and Plead the Cause of the Poor and Needy.</q>
+            <q>
+               <bibl>
+                  <hi>Prov. 29.7.</hi>
+               </bibl> The Righteous confidereth the Cause of the Poor, but the Wicked regardeth not to know it.</q>
+            <q>
+               <bibl>
+                  <hi>Prov. 21.13.</hi>
+               </bibl> Who so stoppeth his Ears at the Cry of the Poor, he shall Cry himself but shall not be heard.</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William Godbid,</hi> 1670.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:205853:2"/>
+            <pb facs="tcp:205853:2"/>
+            <opener>
+               <salute>Worthy Patriots,</salute>
+            </opener>
+            <p>THe whole <hi>Contents</hi> being but a kind of an Epistle, requires none; a former Paper heretofore Printed, and Published upon the same account, hath led the way: This is to second and improve. And yet, as accustomed and conducing, I humbly crave counte<g ref="char:EOLhyphen"/>nance and favour to the goodness of the <hi>Cause,</hi> and benefit of the <hi>Effect;</hi> and have nothing to add, but my earnest desire, that you will please, but for this one time, to be so patient and kind, so good and charitable, as to honour the poor Prisoners and me with a serious reading and due consideration, and to pass by my weakness for the goodness of my Intention, being resolved never to trouble or molest you so again; and humbly submit it and my self to your candour and judgment, and to the Wisdom and Direction of Superiours, as the Duty and Ob<g ref="char:EOLhyphen"/>ligation of,</p>
+            <closer>
+               <signed>Most Charitable &amp; Most Blessed, Your most Humble &amp; Thankful Servant, <hi>Humphry Gyffard.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:205853:3"/>
+            <head>The <hi>PROLOGUE</hi> to him that deserves it.</head>
+            <p>I Brother, the Fool's in Print again, but if you won't be one too, an apparent one, take a Fools counsel, be as silent as you can, least you prove one in discourse, and that's almost as bad: And 'tis but a folly to call him Fool, that is so little a Fool, as to think himself a great one; and so make your self a greater, by thinking your self none. I have this advantage too Brother, that by my humble Folly, I design that which is good and charitable, com<g ref="char:EOLhyphen"/>mendable and publick, which you, Sir, by your accu<g ref="char:EOLhyphen"/>sative Wit endeavour to destroy; who is the greater Fool now Brother? If you will be really wise, pass by my tedious weakness, and imploy all your Logick and Rhe<g ref="char:EOLhyphen"/>torick, Reputation and Wit, Art and Industry, to possess as many as you can, with the absolute necessity, pure cha<g ref="char:EOLhyphen"/>rity, and true worth of the work; with the certainty of reward, and multitude of Blessings on the charitable and free Giver. And now, Brother, shake hands, how do'st do? I'le trust thee with the reading of it, and hope you'l be fit Company for the Wise and Good, and do us service: However, Man, thou cann'st not disoblige me into so much anger and ill will, but that in pitty, cha<g ref="char:EOLhyphen"/>rity, and hope, I am resolvedly</p>
+            <closer>
+               <signed>Thine notwithstanding <hi>H. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205853:3"/>
+            <head>The Ground and Argument for the first advancing this Design.</head>
+            <p>THe Prison of the Compter in the <hi>Poultrey</hi> (as it was before the late dreadful Fire) contained in breadth but two and twenty Foot ground, by reason whereof, the said Compter was so minute, inconvenient, and insufficient, that there was not, nor could not be a Chappel, or Room, for the Minister and Pri<g ref="char:EOLhyphen"/>soners to Assemble, Pray, Preach, and Hear in, the Pulpit standing in the open yard, which in Summer Suns and Heats, and Winter Rains and Colds, was most inconvenient, and exceeding prejudicial to the health and well-being both of Minister and Prisoners.</p>
+            <p>The Hole-ward also of the said Compter, was not, nor could not be twenty Foot Square, for sometimes forty, othertimes fifty Pri<g ref="char:EOLhyphen"/>soners, to be and lie constantly in, dress and eat their Meat in, and for all other necessary Occasions and Offices, which caused the great Annoyances, Contagions, and yearly Mortality among them.</p>
+            <p>Neither was, nor could there be a particular separate Apartment or Ward for women to be, and lodge in, but were necessitated to be and lie in the mens Ward promiscuously together, and so Tempta<g ref="char:EOLhyphen"/>tions and Debaucheries were impossible to be avoided and prevented.</p>
+            <p>And there was not, nor could there be a Room free of Rent for the most ancient, decrepit and sick Prisoners to lodge in; who, though Gentlemen and Citizens Born, Bred, and had lived well and in good fashion, yet by Misfortunes, Casualties, and Losses grown poor and not able to pay Rent, were thereby necessitated to lie in the said Holewards on the Boards, and there languish, dye, and perish.</p>
+            <p>Nor was, nor could there be a Place or Room free of Rent for poor Artificers and Handy-craft Prisoners to work in, during their Imprisonment, whose Wives and Childrens whole dependance rested solely on the benefit of their said Husbands Work, and otherwise could not but be inevitably subjected to Poverty and Want, be turned out of doors into the street, and necessitated to beg or lie upon the Parish, or pine, starve and dye.</p>
+            <p>And by reason of the smallness of the said Ground and Building, the closeness and want of Air was such, that the Prisoners in general, both in the Lodging and Holewards, were so crowded together, and stifled up therein, that they were always subject to annoyances and
+<pb n="2" facs="tcp:205853:4"/>stenches, Infections and Contagions, Sickness and Diseases, insomuch that very many died yearly therein; which did so deter their Kindred, Friends and Adversaries, from coming to treat with them, visit and releive them, that it was not only a great grief and discomfort, but also an exceeding prejudice and injury to the Prisoners.</p>
+            <p>The Remedy of which sad Defects is the present Design.</p>
+            <div type="part">
+               <head>The first Attempt therein, with the Difficulties and Intricacies.</head>
+               <p>The Condition of the Case being thus, the Wants so many, the Inconvenencies so great, and the prejudice so insufferable, and all so manifest and indisputable, and yet no one, any, or all in a capacity or possibility of knowing so well, so fully every particular thereof as my self, by my living so constantly, for so many years, at the said Compter door, as Master-Keeper thereof, in the continual view, sense and apprehension of all the said Defects, Prejudices, and Complaints, and the difficulty of ever obtaining and securing sufficient additional Ground for inlargement; and the almost impossibitily of ever pro<g ref="char:EOLhyphen"/>jecting and attaining any way or proportionate Assistances toward the Purchasing of additional Ground, and raising, and perfecting so grand a Design and Work; especially at a time when so many good Gentlemen and Citizens, and the Chamber of <hi>London,</hi> were so ex<g ref="char:EOLhyphen"/>ceedingly damnified, impoverished, and undone, so lately, by a de<g ref="char:EOLhyphen"/>structive War, sweeping Plague, and consuming Fire successively: And when so many Churches, Halls, Colledges, Alms-houses, and Publick Buildings, do yet want, beg, and claim a Contribution to their Re-building and Re-establishment; ruminating and reflecting there<g ref="char:EOLhyphen"/>upon, the multitude of jealousies and fears, discouragements and difficulties did so perplex, possess and confound my thoughts, so torment, discompose and macerate me; insomuch that to ease my mind, and quiet my spirits, in my own defence I concluded and judged it best to communicate and advise, and troubled all my Friends and Acpuaintance with my continual discourses and arguments thereof; and with patience and perseverance at length happily discovered, that few had any thing material, or confidence to oppose, only doubted the Issue; but the Wisdom of some, the Goodness of others, and the Religion of many (though of different Opinions and Judgments) were so prevalent, that they declared a true sense of the said Defects, and the necessity for Remedy and Redress, did fully approve and value the Design, and freely and nobly comfort and incourage me by
+<pb n="3" facs="tcp:205853:4"/>Promises and Subscriptions, and doubted not but the generallity would be equally sensible and free to so publick and incompatable a Work, so apparently necessary, so purely charitable, so perpetually beneficial, especially as being to poor helpless and comfortless Pri<g ref="char:EOLhyphen"/>soners, otherwise remediless forever. Thus heartened, after a little pause and time, my own Sense and Zeal pressing, and Noble Divine Charity precipitating me thereto; impatient of the delays and de<g ref="char:EOLhyphen"/>murs of better Heads and more able Pens, I reconciled my self to the undertaking of stating and modelling the Design into form and me<g ref="char:EOLhyphen"/>thod, and to multiply and marshal all Arguments and Inducements my weak Brains and interrupted Studies could muster up in the short time limited, and adventured to Print and Publish the same, which is the first Paper in the Proem mentioned.</p>
+            </div>
+            <div type="part">
+               <head>The Progress.</head>
+               <p>Having dispersed the said first Paper, and finding such incourage<g ref="char:EOLhyphen"/>ment from the Wisest and the Best, chearfully to proceed therein, I was yet so unhappy as to meet with petty rubs and checks, and some un<g ref="char:EOLhyphen"/>kind Oppositions and Disputes, which after I had pacified and satis<g ref="char:EOLhyphen"/>fied the Gain-sayers, by clearing some misapprehensions, mistakes and prejudices, I presented my Paper for Subscriptions, and withall solicited the gaining of a sufficient proportion of additional Ground for the Ends designed, where most conveniently, and upon the best terms to be purchased, in Fee rather than by Lease, as being suitable to the Title in the former Ground of the Compter, to which it is to be annexed, which is the Cities; and also as best husbandry, and less subject to exceptions and disputes; it being thus for a perpetual injoy<g ref="char:EOLhyphen"/>ment to the charitable Uses designed, free from after hazzards and charge of a new Contract and Lease. But in the transacting thereof, I encountred also so many, so great difficulties and intrigues, both from the grand Landlords, who were unwilling to sell the Inheritance, and from the Tenants and Sub-Tenants, who (having some a small num<g ref="char:EOLhyphen"/>ber, others more, and the rest very many years in their particular houses by Lease) were very difficult and averse at first, and not easily after prevailed upon to resign their Leases without troublesome demurs and disputes for their own terms; insomuch that I was hugely dishear<g ref="char:EOLhyphen"/>tened, and so confounded between hope and fear, that I suspended all further sollicitation for Subscriptions; and rationally, as being non<g ref="char:EOLhyphen"/>sense to proceed therein till I had agreed and gained a certain Grant of
+<pb n="4" facs="tcp:205853:5"/>the said Ground at a reasonable value to enlarge the Compter, sufficient to contain the intended Chappel and Rooms, and make it more Airy, and convenient for remedy of the Defects and Annoyances of the former Compter, as designed. But at length, by an unwearied Assi<g ref="char:EOLhyphen"/>duity and continued Importunity of one and the other, I have pre<g ref="char:EOLhyphen"/>vailed, on the Reason and Goodness of the Court, that the Fee of the said additional Ground is now offered and agreed for at 420 <hi>l.</hi> which is a proportionate value to other Ground so situate and disposed of: For which first step and happiness towards the advancement of the present Design, Gods Name be glorified, and his best Blessing accu<g ref="char:EOLhyphen"/>mulated as a Reward on all them and their Posterity who have been instrumental and contributary thereto, and the Prisoners who are to have the Comfort and Benefit thereof, will no doubt add and mul<g ref="char:EOLhyphen"/>tiply their Benedictions in their continual Orisons and Amens.</p>
+               <p>Before I proceed any further, I think my self obliged by the Laws of Civility and Gratitude to insert in this Place the Honour and Names of those Worthy Patriots, who were so kind and charitable to subscribe or promise, at the time of my first presentation of my said Paper before-mentioned; humbly craving their pardon if not duely marshall'd according to their Honour and Degrees, and none to take exceptions, if for want of a Register and Memory, I happen to omit any of their Names who were so charitable as to Promise, without expressing what Sum, or misenter others, resolving for the future to be very circumspect therein, and to give a true account thereof, with the Sum of each Subscriber.</p>
+               <list>
+                  <head>SƲBSCRIBERS.</head>
+                  <item>Lord Bishop of <hi>Chichester,</hi> deceased.</item>
+                  <item>Lord Bishop of <hi>Rochester.</hi>
+                  </item>
+                  <item>Sir <hi>John Langham,</hi>
+                  </item>
+                  <item>Sir <hi>Andrew Riccard.</hi>
+                  </item>
+                  <item>Sir <hi>William Thomson.</hi>
+                  </item>
+                  <item>Sir <hi>Samuel Barnadiston.</hi>
+                  </item>
+                  <item>Sir <hi>Gervase Elwes.</hi>
+                  </item>
+                  <item>Sir <hi>William Backhouse,</hi> paid.</item>
+                  <item>Captain <hi>John Jones.</hi>
+                  </item>
+                  <item>Mr. <hi>John Bishop.</hi>
+                  </item>
+                  <item>Mr. <hi>William Turner.</hi>
+                  </item>
+                  <item>Mr. <hi>William Penoyer.</hi>
+                  </item>
+                  <item>Mr. <hi>Samuel Moyer.</hi>
+                  </item>
+                  <item>Mr. <hi>Christopher Boone.</hi>
+                  </item>
+                  <item>Mr. <hi>James Clethero.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Papison,</hi> paid.</item>
+                  <item>Mr. <hi>John Carpenter.</hi>
+                  </item>
+                  <item>Mr. <hi>Dutton Seaman.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Dios</hi>
+                  </item>
+                  <item>Madam <hi>Hall.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="5" facs="tcp:205853:5"/>
+                  <head>By Promise or Assurance.</head>
+                  <item>Lord Arch-Bishop of <hi>Canterbury.</hi>
+                  </item>
+                  <item>Lord Bishop of <hi>London.</hi>
+                  </item>
+                  <item>Lord Bishop of <hi>Sarum.</hi>
+                  </item>
+                  <item>Dr. <hi>Richard Perrinchiefe.</hi>
+                  </item>
+                  <item>Sir <hi>John Cutler.</hi>
+                  </item>
+                  <item>Sir <hi>Theophilus Biddolph.</hi>
+                  </item>
+                  <item>Sir <hi>Andrew King.</hi>
+                  </item>
+                  <item>Esquire <hi>Bond.</hi>
+                  </item>
+                  <item>Esquire <hi>Dashwood.</hi>
+                  </item>
+                  <item>Esquire <hi>Cullinge.</hi>
+                  </item>
+                  <item>Esquire <hi>Bolles.</hi>
+                  </item>
+                  <item>Collonel <hi>Mue.</hi>
+                  </item>
+                  <item>Major <hi>Brooke.</hi>
+                  </item>
+                  <item>Captain <hi>Hampden.</hi>
+                  </item>
+                  <item>Captain <hi>Moone.</hi>
+                  </item>
+                  <item>Mr. <hi>Aires.</hi>
+                  </item>
+                  <item>Mr. <hi>Barre.</hi>
+                  </item>
+                  <item>Mr. <hi>Brettons.</hi>
+                  </item>
+                  <item>Mr. <hi>Bailie.</hi>
+                  </item>
+                  <item>Mr. <hi>Briggenshaw.</hi>
+                  </item>
+                  <item>Mr. <hi>Bagnell.</hi>
+                  </item>
+                  <item>Mr. <hi>Collwell.</hi>
+                  </item>
+                  <item>Mr. <hi>Collclough.</hi>
+                  </item>
+                  <item>Mr. <hi>Dawes.</hi>
+                  </item>
+                  <item>Mr. <hi>Ducane.</hi>
+                  </item>
+                  <item>Mr. <hi>Elwes.</hi>
+                  </item>
+                  <item>Mr. <hi>Farringdon.</hi>
+                  </item>
+                  <item>Mr. <hi>Fox.</hi>
+                  </item>
+                  <item>Mr. <hi>Fethey.</hi>
+                  </item>
+                  <item>Mr. <hi>Gumbledens.</hi>
+                  </item>
+                  <item>Mr. <hi>Hobbert.</hi>
+                  </item>
+                  <item>Mr. <hi>Hall.</hi>
+                  </item>
+                  <item>Mr. <hi>Jefferies.</hi>
+                  </item>
+                  <item>Mr. <hi>Jaques.</hi>
+                  </item>
+                  <item>Mr. <hi>Jones.</hi>
+                  </item>
+                  <item>Mr. <hi>Jackson.</hi>
+                  </item>
+                  <item>Mr. <hi>Mohun.</hi>
+                  </item>
+                  <item>Mr. <hi>Morthwaite.</hi>
+                  </item>
+                  <item>Mr. <hi>Page.</hi>
+                  </item>
+                  <item>Mr. <hi>Scut.</hi>
+                  </item>
+                  <item>Mr. <hi>Skinner.</hi>
+                  </item>
+                  <item>Mr. <hi>M. Thompson.</hi>
+                  </item>
+                  <item>Mr. <hi>R. Thompson.</hi>
+                  </item>
+                  <item>Mr. <hi>Townsend.</hi>
+                  </item>
+                  <item>Mr. <hi>Vandeput.</hi>
+                  </item>
+                  <item>Mr. <hi>White.</hi>
+                  </item>
+                  <item>Mr. <hi>Whitchurch.</hi>
+                  </item>
+                  <item>Mr. <hi>Whittingham.</hi>
+                  </item>
+               </list>
+               <p>I have delivered also my first Printed Paper to many other worthy Persons, of whose free Contribution I have great hope, and no cause to doubt but that you will find their Names and Sums in an after List of all the Benefactors; which I design to publish for the general satisfaction, that whatsoever is given and paid hereupon, may be true<g ref="char:EOLhyphen"/>ly known, fairly accounted for, and justly disposed of, to all and only the Uses designed, without abuse, injury or fraud, or cause of jea<g ref="char:EOLhyphen"/>lousie or suspition.</p>
+               <p>In the next place, I conceive an Account may be expected, what the Charge of the Particulars designed may amount to, which, though I cannot demonstrate exactly, yet according to the account of Arti<g ref="char:EOLhyphen"/>ficers do assure you, the Opinion and Computation of some is 500 <hi>l.</hi>
+                  <pb n="6" facs="tcp:205853:6"/>others 600 <hi>l.</hi> which with the aforesaid Cost of 420 <hi>l.</hi> for the said additional Ground, will make about 1000 <hi>l.</hi> in the Total: And shall add, that the other part of the said Compter, and the Offices belong<g ref="char:EOLhyphen"/>ing thereto, will cost the City about 3000 <hi>l.</hi> more. For Prisons are not to be built at the rate of dwelling Houses, they can scarce be made thick and strong enough, to keep Knaves and Rogues from Breaches and Escapes, as such generally there are: Iron is not sufficient to Bar them in, <hi>Mercury</hi> is in their Brains, and <hi>Aqua-fortis</hi> in their Breeches; they are of the true Family of the Light-foots, Ubiqui<g ref="char:EOLhyphen"/>taries, once gone, gone forever, to <hi>Terra incognita,</hi> or the World in the Moon, <hi>Greshams</hi> Telescope cannot discover them, nor <hi>Lilly</hi> him<g ref="char:EOLhyphen"/>self retrieve or conjure them out: Let the Sheriff, Creditor and Goa<g ref="char:EOLhyphen"/>ler storm, whine and pine as they please, such are no way concerned in their loss, dammage and ruin; cheating and debaucheries brought them in, and nothing else designed in getting out, till perpetrating their Iniquities, the Justice of God take them napping, tardy or frantick with the Fire of their Passions and Corruptions of their Affections; and for their circumventing Brain, Hardness of Heart, Illness of Livers, Obdurate Spleens, Overflowing Galls, Putrid Lungs, and Stinking Breaths, fulness of Humours, and want of Noble Spirits, dye of the Meagrim or Palsie, Obstruction or Dropsie, Vo<g ref="char:EOLhyphen"/>miting or Looseness, Scurvy or <hi>French</hi> Consumption, or the like adequate Distempers or Diseases, if the Devil account not with them at the Gallows.</p>
+               <p>Having given this Narrative and Account of the Ground and Argu<g ref="char:EOLhyphen"/>ment of the said Design and Undertaking, with the first Attempt, and hitherto Progress therein; as also the value and price of the additio<g ref="char:EOLhyphen"/>nal Ground, and computation of the total Charge, with all the seve<g ref="char:EOLhyphen"/>ral circumstances thereof: Before I proceed any further (as a previous preparative to the succeeding part) I shall in this place enumerate some material Particulars, which many are not privy to, and few acquainted with, or otherwise would not remember, or well consider of.</p>
+               <p>The first whereof is, That the City Stock and Treasure was here<g ref="char:EOLhyphen"/>tofore so ill husbanded, and so exceedingly exhausted, during the time of the twenty years unnatural and unhappy Wars, and reduced to so inconsiderable a Bank and Incom, and the late dreadful Conflagrati<g ref="char:EOLhyphen"/>on hath so destroyed and consumed their Publick Edifices and Buil<g ref="char:EOLhyphen"/>dings, and thereby so exceedingly impaired and diminished their Proprieties and Rents, and the Charge of Re-edifying and renewing thereof requires so incredible and inexpressible a Sum, That the Ma<g ref="char:EOLhyphen"/>gistrates
+<pb n="7" facs="tcp:205853:6"/>and Councils by all their Study, Industry and Proposals, cannot yet attain or accomplish sufficient Assistances and Recruits to enable them to defray their present vast Charge and Disbursements, much less satisfie all other demands upon them; so that at present there is such an incapacity and impossibility in the City to any Acts of Cha<g ref="char:EOLhyphen"/>rity, or Works of Supererogation, that it would be an Incivillity, Affront, and Impudence to propose, or expect more from them, than the Building of that part which is requisite for the upholding of Go<g ref="char:EOLhyphen"/>vernment, and Maintenance of the Publick Rights and Interests, which (as aforesaid) will amount to 3000 <hi>l.</hi> and by experience I have just cause to fear, that that Sum will not easily or speedily be allowed or spared out of the Common Stock, but that a Necessity will be put upon them to raise or make it up otherwaies, either at Interest, or by Subscriptions, or Loan of the Magistrates and Commons, as a testi<g ref="char:EOLhyphen"/>mony of their respect and indulgence to the Cities Condition, Interest and Honour.</p>
+               <p>It is also manifest and observable, That the Particulars in Design, <hi>viz.</hi> the additional Ground for increase of Air, the inlargement of the two Holewards for Men and Women, for their better conveniency and health, the erecting the Chappel for the Ministers accommoda<g ref="char:EOLhyphen"/>tion, and for the Frisoners to serve God in, learn their Duties, and way to save their Souls; the Chamber for the most ancient, decrepit, and sick Prisoners to lye in, for the preservation of their Lives; the Room for poor handy-craft Prisoners to work in, for the maintenance of their Wives and Families, are all new, not before, nor possible to be in the compass of the old Ground and Compter. Every one of which, without doubt, is perfectly necessary, and in Pitty and Charity worthy of all care and provision, by all that account themselves, and really are, and desire to be esteemed, either as commendable Gover<g ref="char:EOLhyphen"/>nours, good Citizens, or true Christians.</p>
+               <p>Neither in the way proposed is there any Rent to be paid, nor any benefit to accrue to the City, the Sheriff, Keeper, or any Officer, or Person, for any the aforementioned Chappel, Chamber, Working Room or said two Holewards and Inlargements thereof; but the Pri<g ref="char:EOLhyphen"/>soners are to have and enjoy perpetually the benefit and use thereof, free from Rent and Charge, and so to be secured by Deed, and Re<g ref="char:EOLhyphen"/>gister, and a Copy thereof to be laid in the Prisoners Common Chest with three Locks, and the Prisoners obliged to read over the same once a Quarter in open Court, to imprint their Title and Tenure in their Memories, and thereby insure the perpetual enjoyment there<g ref="char:EOLhyphen"/>of
+<pb n="8" facs="tcp:205853:7"/>of to them and their Successours, and no possibility of ever alienating or estranging the same.</p>
+               <p>It is also very considerable, and an undeniable Argument and In<g ref="char:EOLhyphen"/>ducement to the expediting the said Design, That the present <hi>Poul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rey-Compter</hi> now kept in <hi>Aldgate,</hi> is all above Stairs, no Yard, and very little Air; and by reason of the Scituation, and thickness of the Stone walls, is extream hot in the Summer, and excessive cold in the Win<g ref="char:EOLhyphen"/>ter; and is so small and close, and so many pen'd up together in the Hole-wards and Rooms, and so little accommodation, that the Pri<g ref="char:EOLhyphen"/>soners have a most inconvenient and uneasie being, and very subject to contagious Diseases, and a Mortality among them, to the number of above 20 Prisoners dying within a years space, which is most sad, and worthy of a Christian Pity, and speedy Redress.</p>
+               <p>And the reason why this Ground of this <hi>Compter</hi> only is now pro<g ref="char:EOLhyphen"/>posed to be enlarged, is, because the other of <hi>Wood street</hi> was of a much greater extent, and the now additional Ground for this, will but little more than equal the other, which surely it well deserves, since 'tis the Cities Ground, and Rent, which the other <hi>Compter</hi> is not; and as being nearest to the Custom-house, and Exchange, and by concourse thereto, will somewhat the more regain and settle a greater Corre<g ref="char:EOLhyphen"/>spondence and Trade towards and to the said Exchange, and this end of the City; too much (of late years especially) removed, and too little look'd into, and no care taken of.</p>
+               <p>It is also of very ill Consequence, if the said <hi>Compter,</hi> which is a Publick Prison, be suffered to be undertaken and Built by a Forreign Hand, at their own Cost and Charge, for private Interest and Profit, for so the greatness of the Charge must undoubtedly mount the Rent thereof to a proportionate sum <hi>per annum,</hi> 6 at least <hi>per cent.</hi> And if 10, 'tis but according to the general advancement in other Buildings; and that vastly new rais'd Rent must necessurily be re-imbursed by an additional Chamber Rent, or Fees, or both, imposed upon the poor Prisoners, which will be a new treble exaction and oppression upon them; whereas it is notoriously known, that the generality of Prison<g ref="char:EOLhyphen"/>ers were ever heretofore by their Poverty unable to pay the old Chamber-Rent, which was small and inconsiderable comparatively: And if so raised, and the Prisoners be discharged before payment thereof, the Prisoners will never pay willingly, the Law, Judge, and Jury will never compel them thereto; The Keeper then can never re<g ref="char:EOLhyphen"/>ceive, and so can never be able to pay the said exacted new Rent: And if the Prisoner be not dischargable till he hath paid, then little hopes of
+<pb n="9" facs="tcp:205853:7"/>attaining to ability or Freedom; Poverty disables the Prisoner, and their disability incapacitates the Keeper, and so no Rent paid by either. Be<g ref="char:EOLhyphen"/>sides, upon this account many of the Prisoners, especially those who lie long, and so will owe very much at this exacted rate, will thereby through their Poverty and Inability be necessitated to a perpetual Im<g ref="char:EOLhyphen"/>prisonment, till Death free them, and their Wives and Children fa<g ref="char:EOLhyphen"/>mish and perish, to the Dishonour, Scandal, and Reproach of the City, its Governours, and Government, till the Parliament, or Com<g ref="char:EOLhyphen"/>mon Councel in Justice, Pitie, and Honour retrench and reduce the Rent to what is equitable, convenient, and charitable, to the prejudice and ruine of the imprudent and improvident Undertaker.</p>
+               <p>And if it be not supposable, that any Projector, that hath Brains and Money, can be so inconsiderate and fool-hardy; Then this <hi>Di<g ref="char:EOLhyphen"/>lemma</hi> is irrefragable. That it will not then be re-built by any particu<g ref="char:EOLhyphen"/>lar person with the enlargements proposed, at the old, or at a con<g ref="char:EOLhyphen"/>venient Rent, and so either the now <hi>Compter</hi> must be continued in <hi>Aldgate,</hi> or that in the <hi>Poultrey</hi> be re-built upon that spot of Ground as heretofore, and all the recited Inconveniencies and Defects must be, as now in this, or as then in that, to the Detriment, Injury, and Ruine of the poor Prisoners, and the Dishonour and Scandal of the City and Citizens thereof; or else it must be re-built with such Enlarge<g ref="char:EOLhyphen"/>ments, either by the City singly, or by the assistance of others jointly, as I propose: The continuance of the present <hi>Compter</hi> in <hi>Aldgate,</hi> or the return to the like of the former in the <hi>Poultrey,</hi> is so unreason<g ref="char:EOLhyphen"/>able, destructive, and dishonourable, that all are of the Opinion and judgement for enlargement, and most for all the particulars of con<g ref="char:EOLhyphen"/>veniency, and Rooms of Charity proposed. Then the Question only is, at whose Charge to be so re-built. If the City singly undertake it at the sole Charge of the Chamber, its present Stock as aforesaid, will not bear it; and if taken up at Interest, the other Rent will not repay it by above 100 <hi>l. per annum,</hi> which will be an Annual, and in time become an insupportable Charge and Dammage; and if the City raise the Rent proportionate to the principal Charge and In<g ref="char:EOLhyphen"/>terest, then the case will be as aforesaid, equally injurious, dishonour<g ref="char:EOLhyphen"/>able, and hazardous to the City, as to the supposed Forrein Under<g ref="char:EOLhyphen"/>taker; What Councellour or Oracle can then propose any other more rational or feasable way; but that the City be at the Charge of its proper part, for the upholding of Right and Government: And in respect to the Cities Condition, Interest, and Honour, and in Pitie and Charity to the poor helpless, comfortless Prisoners. That all
+<pb n="10" facs="tcp:205853:8"/>that are good, Religious, and Rich, especially Citizens, lay to thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> helping Hands, for the perfecting of so publick, so necessary, so Cha<g ref="char:EOLhyphen"/>ritable a work, and in ambition and emulation each to exceed the other.</p>
+               <q>
+                  <hi>Cum manibus multis grande levatur onus.</hi>
+               </q>
+               <p>And Gentlemen, it is no exceeding great Sum that is desired or ex<g ref="char:EOLhyphen"/>pected from the generality. Particular Congregations have the cre<g ref="char:EOLhyphen"/>dit of advancing a greater Sum to the purchase of, and raising a Meet<g ref="char:EOLhyphen"/>ing-House; and this is a Chappel or Room, the name whereof makes no real difference, both equally intended for the Worship and Glory of God, and good of Souls; whereas this work is an additio<g ref="char:EOLhyphen"/>nal perpetual Pitie and Charity to the Body also of the necessitous and afflicted, to the Prisoners who are lock'd up, and barr'd from Maintenance and Liberty, Societie and Ordinances. And Obedience and Gratitude, makes Charity a Duty to God. 'Twill also be a respect and Provision for your own Flesh and Blood, your Successours being no less subject to Providence, Casualties and Misfortunes, Poverty and a Prison, then the present Prisoners were in the Loins of their Prede<g ref="char:EOLhyphen"/>cessours. All parties have been, and therefore may be unhappy Pri<g ref="char:EOLhyphen"/>soners. Again, 'tis your particular Interest also. Blessing is the due reward of Charity; the Prayers of the Prisoners multiply them, and the God of Power Insures them; so you have Principal, and Interest, and Security. Your assurance also of Salvation depends upon Charitie, For Faith singly is invisible, insignificant, and Justifies not, but as operative in Works, particularly and especially of Charity; and how can your hope then be otherwise well grounded? Charity is a perfect Antidote against Covetousness and Baseness, Pride and Malice, and most other Vices, it is the Impulse of the Soul, the Spirit of all Graces, the Form of all Virtues; Charity is the Ex<g ref="char:EOLhyphen"/>cellency and Glory, the Perfection and Delight of God; the Grand President and Exemplar, the Joy and happiness of Man; the Em<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tions, Effluxes and Issues of Gods goodness and Charity, being the Fountain, the Original efficient Cause, Soul and Life of all Glorious created Beings and Enjoyments. No Creation, Redemption, or Pre<g ref="char:EOLhyphen"/>servation without it; No Pardon, no Heaven, no Happiness, but by it. Charity is the grand Moderator and Umpire in all cases of Equity, and Conscience, Joyns, Unites, and Cements, Governs and Quiets, Upholdeth and Improveth Kingdoms, Cities, Societies, and Families; Moderates the Affections, and Regulates the Passions, Melts the Stony Heart, and makes the Bowels yearn, sends and gives Food to the
+<pb n="11" facs="tcp:205853:8"/>Hungry, Apparrel to the Naked, Relief to the Prisoner, and Com<g ref="char:EOLhyphen"/>sort to the afflicted: Charity is the Wedding Garment, the distin<g ref="char:EOLhyphen"/>guishing Character, the way to Heaven, the Title to the right Hand of God, and to the highest Mansions; A Mite of it is of more value than a Hecatomb, For it is the Grand Communicative Magnetick Spirit, the true Noble <hi>Elixir.</hi> Divine Eternal Charity is the Image and beloved of God, The Honour of good Men, the duty of Chri<g ref="char:EOLhyphen"/>stians, the delight of Saints; and through Mercy and Grace, the Me<g ref="char:EOLhyphen"/>ritorious Inheritour of all Blessings; and Rewards, Happiness and Heaven.</p>
+               <p>But Worthy Sir, When I had not scribbled beyond this Period, and at your casual cursory Reading of it, you being so possest and free, as presently to promise me 5 <hi>l.</hi> towards the Work; I cannot think fit to proceed, till I have paid my due acknowledgement, and Thanks to you for such your Noble Charity: Indeed Master, it was more than I expected; your Losses I doubt not have been very many, and know your Charge to be much greater than most Persons, and yield that there are other obliging Objects of Charity, but yet none Sir, that I find and conceive to be more, if so naturally and compa<g ref="char:EOLhyphen"/>rably inducive; And may the God of Mercy and Power return to you and yours Ten Thousand <hi>Guinies,</hi> and Eternal Mansions for Reward. But good Sir, be pleased to add to this kindness, to recommend me to others, and prepare them with your powerful Language, and Interest in them; for I have a hard task, and am affraid the Generality are become so Irreligious and Atheistical, so unnatural and uncharitable, so covetous and tenacious, or so profuse and prodigal, so dull and deaf, so averse and sear'd, that no Language that I (who am so weak, so mean, and low Spirited) can use, will incline, convince, and prevail upon them; And that's the reason indeed, why, the better to strength<g ref="char:EOLhyphen"/>en and enforce my Arguments, and fix and secure all parties, but A<g ref="char:EOLhyphen"/>theists; and so ground and insure my hopes, I choose to add a Ser<g ref="char:EOLhyphen"/>mon of God Almighties own making, all Scripture and nothing else, least the Reverend Black, or Spiritual Gray, should account it an in<g ref="char:EOLhyphen"/>trasion or presumption unpardonable, find fault, or take exception, and prejudice or scandalize me or the Design; But because it is somewhat numerous in the Texts quoted, and will be too long a <hi>Pa<g ref="char:EOLhyphen"/>renthesis</hi> in this place; I have transmitted it at the end of my Discourse for a Refuge, and shall only here acquaint and prepare you a little with my Text, and its <hi>Analysis</hi> and <hi>Coherence,</hi> and so refer you.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:205853:9"/>
+               <head>The Text is <hi>Luk.</hi> 6.36. <hi>Be ye therefore Merciful, as your Father is Merciful.</hi>
+               </head>
+               <p>WHen Jesus had lifted up his Eyes on his Disciples, and said, Blessed are ye Poor, for yours is the Kingdom of God, <hi>ver.</hi> 20. And pronounced Wo unto the Rich that had received their consolation, <hi>ver.</hi> 24 And to the full and merry Wo and Hunger, Mourning and Weeping. <hi>ver.</hi> 25. And a Wo to them that seen or receive univer<g ref="char:EOLhyphen"/>sal applause; the accusation of their Fath<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the false Prophets, <hi>ver.</hi> 26, <hi>&amp;</hi> 27, He thus Lectures them. B<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> say unto you (which hear) Love do good to, Bless. pray for, (whom) your Enemies, which hate you, which Curse, Strike or Rob you. And in <hi>ver.</hi> 30. Saith, Give to every Man that asketh, and ask not again thy Goods of him that took them: and do you as you would have Men should do to you, <hi>ver.</hi> 31. Then from the 32. to the 34. tells them, How thankless Love for Love, Good for Good, Loan to receive again, is; for Sinners do even the same. And <hi>ver.</hi> 35. re-chargeth them. But love ye (the same again) your Enemies; Do good and lend, hoping for nothing again. And what then? Your Reward shall be great, Ye shall be the Chil<g ref="char:EOLhyphen"/>dren of the Highest, For he is kind unto the unthankful, and to the Evil; And then knits and folds up all in this 36 <hi>ver.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Therefore be ye Merciful, as your Father is Merciful.</hi> Or otherwise thus.</head>
+               <p>Therefore, for the reasons aforesaid, I Jesus say, <hi>ver.</hi> 27. Be, (im<g ref="char:EOLhyphen"/>perative) Command, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e my Apostles, my Disciples, my chosen, <hi>ver.</hi> 13. Ye, the Multitude of People, <hi>ver.</hi> 17. which hear, <hi>ver.</hi> 27. Ye that will, that shall be the Children of the Highest, and have great Reward, <hi>ver.</hi> 35. be what? Be ye therefore Merciful; and the Pattern, the Exem<g ref="char:EOLhyphen"/>plar is, as your Father is Merciful; your Father the Highest, who is kind to the unthankful, and to the Evil, <hi>ver.</hi> 35.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Be therefore ye Merciful, as your Father is Merciful.</hi> And so much for this place and time.</head>
+               <p>And therefore let us Pray,</p>
+               <p>Almighty and most Merciful Lord God, Our Father which art in Heaven, who givest us our daily Bread, and forgivest our Trespasses, our Debts, and leads us not into Temptation, but deliverest us from Evil; Grant I most humbly beg, that these words which thy beloved
+<pb n="13" facs="tcp:205853:9"/>Son our Merciful Saviour Jesus Christ hath said, and are written for our Instruction, may, through the Grace of thy Holy Spirit, be so graffed inwardly in all our Hearts, that they may bring forth in us the Fruits of the Spirit, in some 30, in some 60, in some an 100 fold, in all some; and make us Merciful, as thou our Father art Merciful: That so we may be the Children of the Highest, and receive a great Reward; and this again I humbly beg, O Merciful Father, for Jesus Christ his sake, Our only Mediator and Advocate; To whom with the Holy Ghost, three Persons and one God, be ascribed all Power, Glory, and Praise for ever, and for ever. <hi>Amen.</hi>
+               </p>
+               <p>And Gentlemen; Now I have given you this ample Account of all the substantial parts, with the material Circumstances and Considera<g ref="char:EOLhyphen"/>tions thereto belonging, and call'd in Magnetick Omnipotent Charity for Influence and Aid, and quoted the unquestionable Word of God, for testimony and Edification; I take it for granted that abundantly enough is said to justify the present Design to be perfectly necessary, and highly commendable, and of sufficient Argument and Potency to con<g ref="char:EOLhyphen"/>vince and induce all persons that have a clear brain, a good heart, and a Noble Soul, a moral Principle, and a Christian Spirit, that have any regard to God or Man, Religion or Reason, to the publick good, or to the Cities Honour, to their own worldly Interest, or their Eternal Happiness, to judge themselves in duty, Prudence, Policy, and Con<g ref="char:EOLhyphen"/>science obliged to approve, promote, and advance the Design, either by Commendation or Assistance; Both Magistrates and Ministers, Gentlemen and Citizens, Aliens and Natives, Lawyers and Officers, of this or that Judgement, Noble and Wife, Major and Minor, but especially the Rich and Able, the Religious and Charitable, Married and Sole, that God in his Goodness and Charity hath blessed with great or competent Estates, or preserved them from grand Losses, Poverty and Ruine more than many others, all to contribute more or less, their Guinies or their Mites, their good Words or Prayers to<g ref="char:EOLhyphen"/>wards this Honourable Design and commendable Work, that so it may be brought to a speedy perfection, for the conveniency, Health and well being of the Bodies and Souls of the poor distressed Prisoners, there being no other better way or means feasable or possible, to compose or effect the same by.</p>
+               <p>The Design in all its parts and Particles being thus laid open to the view and understanding of such as please to read it; I account and as<g ref="char:EOLhyphen"/>sure my self, that the wisest, the best, and the richest, are so well sa<g ref="char:EOLhyphen"/>tisfyed,
+<pb n="14" facs="tcp:205853:10"/>and so fully possest, as on account of Reason, Religion, In<g ref="char:EOLhyphen"/>terest and Charity, to be willing and ready to subscribe freely thereto; so that in Justice and Gratitude I am now only to take care, and give them an account what course I intend to take about the said Subscripti<g ref="char:EOLhyphen"/>ons, Collections, and Disposal; And first, in order to the obtaining the more and larger Subscriptions, I intend to Print this, with a Paper for Subscriptions by it self, and deliver both to all hopeful Benefactors, the more seriously to consider, and resolve thereupon, and shall be obliged to them that shall be so sensible, Charitable, and kind, as to recommend me to Strangers unknown to me, and so increase my number. And hope the good Ladies will be so pleas'd with the pro<g ref="char:EOLhyphen"/>pos'd enlargement of the Womens Ward for the better conveniency, accommodation and health of their modest and tender Sex, that by their pretty obliging Caresses, successful Rhetorick, and infallible im<g ref="char:EOLhyphen"/>portunities, they will vouchsafe to encourage, induce, and incite their affectionate and indulgent Husbands to a free Contribution, and some<g ref="char:EOLhyphen"/>what the more liberal for their sakes: Then in convenient time after delivery of the said two Papers, I resolve to wait upon each of them, to receive the said lesser Paper, with their Subscriptions thereto. Next as opportunity serves, I intend to collect and receive what is hi<g ref="char:EOLhyphen"/>therto Subscribed and promised, and to pay it in as I receive it to the Right Worshipful Sir <hi>Robert Viner,</hi> or <hi>Edward Backwel</hi> Esquire, or to the Chamberlain of <hi>London</hi> for the time being, to the uses designed; or rather shall desire each Party will please to pay, or to order their Payments to either of the said Persons Treasurery, at their own choice; And shall proceed after the same Method, for the future Subscriptions hereto, and so as Money comes in, the first disposal is to be made to the Company for the said additional Ground, as agreed for, <hi>viz.</hi> 420 <hi>l.</hi> and after to pay for Materials and Work, as fast as Stock increaseth, till the whole Work designed be finished; And if we are so happy as to have an <hi>Overplus,</hi> then to buy, and pay thereout for Bed-steads, Hutts, Ruggs, and other necessary Utensils, for the Use and Benefit of the poor Prisoners, peculiarly belonging to the said two Hole<g ref="char:EOLhyphen"/>wards, and Rooms for the Aged and Sick: And if yet there remain a Sum, then to put it out at Interest into the Chamber of <hi>London,</hi> for the Relief and Release of the said poor Prisoners annually for ever, by Order of the Lord Mayor, Sheriffs, and Court of Aldermen, which will be a most inducive, perpetual, and secured Charity for ever.</p>
+               <pb n="15" facs="tcp:205853:10"/>
+               <p>And now Gentlemen, the whole Account being finished; at this Pe<g ref="char:EOLhyphen"/>riod, you might very well expect your ease and quiet; And indeed, it was a huge content and pleasure to me, to think my self so near the end of my Task and Undertaking; But upon review, I fear not only the Learned and the Wits, but the Ignorant and the Covetous in the Rea<g ref="char:EOLhyphen"/>ding, and in their Coffee-house discourses, may censure, accuse, and arraign me for a confident Fool, and troublesome buisy bodie, that upon so small a stock of Brains, such meanness of Parts, and so in<g ref="char:EOLhyphen"/>considerable a Reputation, should adventure to instruct and teach my Superiours and betters. All that I shall plead in Barr, and Justification, is; That the Defects are manifest and insufferable, proved and unde<g ref="char:EOLhyphen"/>niable; the Cure must be granted then to be, and certainly is necessary and commendable, and as yet no other ways visible or feasible; The undertaking it was like to be troublesome, and give Offence to one or other, and the generality are laizy, the Rich buisy, and the Wise cautious, the most indulge to their own ease, and few but love their own quiet; But I (by my place) was always in the sence and com<g ref="char:EOLhyphen"/>plaints of the said Defects, and so more under a duty of discovery, and care for Cure, and was necessitated to undertake it, because no body else did or would; and surely no more or better is expected or required by God or Man from me, or any, than our Talent, what our Head, Heart or Hand are capable of; And nice fitting of every word, and squaring every Period with Dashes, and Interlines, and fair Wri<g ref="char:EOLhyphen"/>ting, is troublesome and tedious, and delays in our case are dange<g ref="char:EOLhyphen"/>rous; We have lost already the opportunity of a treble choice of Ground, and if this last, all is gone irrecoverably and for ever, The whole Design is ruined, and the Prisoners perpetuated to their former Miseries of Stenches, Annoyances, contagions, Sicknesses, and a year<g ref="char:EOLhyphen"/>ly Mortality amongst them, and no regard or care had of either their Bodies or Souls; And if impropriety of Language, Multitude of Words, needless Repetitions, dulness of Stile, want of true Method, weakness of Arguments, and too Magisterial expressions be my just Accusation, and real Crime, I shan't dispute or deny it: Let it be so, the Design is commendable, my Intentions good, my Zeal is harm<g ref="char:EOLhyphen"/>less, my Confession humble, and my Submission is absolute; what would you have? if severe Justice condemn for this or that, Equity will relieve me, and Charity Seal my Pardon; and the more my Guilt, the greater is your Goodness, your Kindness, and your Honour; and to which I shall apportion my Thanks, and the Prisoner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their
+<pb n="16" facs="tcp:205853:11"/>Prayers: And if you, or any body will please upon my Grounds and considerable Circumstances laid before you, to raise a more concise and powerful Piece, find out a more expeditious and certain way of attaining the end designed; I'le bribe you, pay for the Printing, and act any part in it with chearfulness. To the Worldly and Covetous what shall I say more? but that I understand you better than to think you persons to be wheelded or storm'd out of your beloved Mony or Freedom; The ground of the Design is truly stated, and the Inducements civily laid before you, your Money is still your own, and your liberty is not impeacht. If you think your Cash better in your Chest, in Trade, at Interest, at Bottomarie, or in your Coffins, rather than be Charitable, or trust God Almighty, much good do you, please your selves; If we differ in Opinion I shan't judge, the just Judge at last will resolve the Point betwixt us; But I'm affraid Angels will not be bribed with baggs full of Guinies, nor St. <hi>George</hi> take an Army of half Crowns, nor St. <hi>Charles</hi> accept his own broad stamp'd Coin to Lead, Guard, and Defend them from the Grave, the Dragon, and the Gulf, to St. <hi>Peter;</hi> nor St. <hi>Peter</hi> or his Master set open Heaven Gates, without valuable Bills of Exchange for, and creditable Testimonials of their good Works and Charity here; and what better and more acceptable Certificate can be than this from the Poor, Needy, helpless, and afflicted Prisoners. And if all hitherto works not, the Sermon I hope will, 'tis Gods own making, so refer him thereto, and shall hope till the 11 hour is past; and if then God reward him for his labour with Wisdom, increase of Riches, and Heaven. For the Ignorant, I shall neither accuse, nor answer their Folly; only tell them, their Ignorance required multitude of Words, and Repetitions to furnish and feed their brains, and inculcate it into their Memories and Con<g ref="char:EOLhyphen"/>sciences; and if not yet convinc'd and converted, return them to the Prologue, and a second Reading.</p>
+               <p>To my Honoured Superiours and betters, Magistrates and Gover<g ref="char:EOLhyphen"/>nours, what shall I conclude with? They are knowing and wise, good and Charitable, I have no cause to doubt or fear them; for if they please to accuse, I humbly confess; if they dislike, I decline; if they condemn, I submit, and what their Wisdom and Power orders and Commands, I believe and obey; all that I humbly desire or expect from them, from all is; That the Defects enumerated in the first Ground and Argument be duly considered, and the Cure timely ap<g ref="char:EOLhyphen"/>plyed, without regard or dis-regard to what I am, or what in my
+<pb n="17" facs="tcp:205853:11"/>simplicity I have said in the Case, and then I shall have no cause to doubt neither the general Sense, nor the free Charity of the Wise and Rich, the good and the Religious; for Honour and Gods blessing, inward Content and Satisfaction, and eternal Enjoyment and Happi<g ref="char:EOLhyphen"/>ness, are abundantly sufficient Temptations and Inducements; I shall then have no occasion to trouble them, or my self, in this kind any fur<g ref="char:EOLhyphen"/>ther for the future; So humbly beg their general Pardon for this, pre<g ref="char:EOLhyphen"/>sent my due Service and Thanks, and oblige my self for ever,</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>Most Reverend and Honourable Right Worshipful and Worshipful, And all Noble and Worthy Patriots and Benefactors; Yours perpetually in all Humility and Services.</hi> H. G.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="18" facs="tcp:205853:12"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>UPon consideration, I have so high an Opinion of the worthiness of the Work in it self; And have so great a hope and confidence of the Goodness and Charity of a sufficient Partie, if not the Ge<g ref="char:EOLhyphen"/>nerality; That, for expedition, and saving of charges in Printing, and that you may receive the Honour of your own natural Freeness; I do forbear to add here the promised remaining part of my Sermon begun; but I have an Hour-Glass full of propper Texts ready collect<g ref="char:EOLhyphen"/>ed, and methodized, Very many that abundantly set forth the exceeding Greatness and Fulness of the Mercies of God our Father, our Exemplar in the Text, to the Poor, to the Needy, to Prisoners, and to all; And a number of other Texts both Preceptive and Directive, Inducive and Coercive, Rewardable and Penal, on Earth, in Heaven, and in Hell; with some Presidents of the Holy, the Good, and the Wise; and the different Prin<g ref="char:EOLhyphen"/>ciples and Practices, Fates and Ends of the Wicked, the Voluptuous, and the Covetous, And to such as would not believe, consult, and imitate <hi>Job, David,</hi> and <hi>Solomon,</hi> or Noble Christian<note n="*" place="margin">
+                  <hi>A Farmer of his Majesties C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stonis or R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>venue. Luk.</hi> 16.19 12.16.18.22. <hi>Mat.</hi> 19.22</note>
+               <hi>Zaccheus,</hi> the free Publican to the Poor: I have quoted the end and unhappiness of the three Brother <hi>Dives</hi>'s, to champ upon, <hi>viz.</hi> The Rich (Courtier or Citizen) in his Purple, fine Linnen, and sum<g ref="char:EOLhyphen"/>ptuous Fare; And the other Country Gentleman with his full Barns; And the Rich young Fool in the Gospel, that rather than give to the Poor, as Christ commanded
+<pb n="19" facs="tcp:205853:12"/>him, went away sorrowful, and would not hearken to, and follow him, but valued his great Possessions more, than Christ, and Treasure in Heaven; And the Dialogue between the first uncharitable <hi>Dives</hi> in Hell,<note place="margin">
+                  <hi>Luk.</hi> 16.23.</note> and <hi>Abraham</hi> with poor <hi>Lazarus</hi> in Heaven, is really well worth the Reading and referring to; And the other Rich Covetous Fool <hi>Dives,</hi> that Night,<note place="margin">12.18.</note> in which he vapoured so highly of the fulness of his Barns,<note place="margin">19.</note> and the Multitude of his Fruit and Goods, as sufficient for many Years, and design<g ref="char:EOLhyphen"/>ed his Ease, Voluptuousness and Mirth,<note place="margin">20.</note> that very Night God required his Soul from him, before he could make his Will; For the Question was, whose then should those things be, which he had so provided, is a good <hi>Caveat</hi> also? But in this, and all that I have said, how Magiste<g ref="char:EOLhyphen"/>rial soever,<note place="margin">
+                  <hi>Phil.</hi> 4 17.</note> I protest nothing is intended by me to grate or offend any. Nor because I desire a Guift, but yet I do desire that Fruit may abound to your own Account,<note place="margin">18.</note> an Odour of a svveet smell, a Sacrifice acceptable,<note place="margin">19.</note> and vvell pleasing to God; And my God shall supply all your Need, according to his Riches in Glory, by Christ Jesus;<note place="margin">23.</note> And the Grace of our Lord Jesus Christ,<note place="margin">20.</note> the Mercy of God our Father, and Blessing of the holy Spirit, be vvith you all; Unto vvhich God and our Father be Glory for ever and for ever. <hi>Amen,</hi> and <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid</hi> for <hi>Nathan. Brooks,</hi> and are to be sold at his Shop at the Sign of the <hi>Angel</hi> in <hi>Cornhil,</hi> Anno Dom. 1670.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
